@@ -15,3 +15,7 @@ function print(){
 function newFn(){
     console.log('Hey I am a new fn')
 }
+
+function add(a, num2){
+    return a+num2;
+}

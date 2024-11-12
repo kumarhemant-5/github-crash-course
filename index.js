@@ -11,3 +11,7 @@ function sayName(){
 function print(){
     console.log("Hemant Kumar");
 }
+
+function newFn(){
+    console.log('Hey I am a new fn')
+}

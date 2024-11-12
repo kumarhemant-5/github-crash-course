@@ -6,7 +6,9 @@ function sayName(){
     console.log('My Name is  '+name);
 }
 
-
+function isAbove18(){
+    return age>=18;
+}
 
 function print(){
     console.log("Hemant Kumar");
